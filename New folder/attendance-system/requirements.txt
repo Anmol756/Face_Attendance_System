@@ -1,0 +1,8 @@
+pandas
+openpyxl
+face_recognition
+opencv-python
+mediapipe
+tkinter
+numpy
+datetime
